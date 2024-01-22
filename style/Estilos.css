@@ -1,0 +1,14 @@
+.required:before {
+    content: "*";
+    font-weight: bold !important;
+    color: red;
+}
+
+.Dsp_no{
+    display:none;
+}
+
+.negrita
+{
+    font-weight: bold !important;
+}
